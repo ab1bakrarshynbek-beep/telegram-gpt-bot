@@ -2,7 +2,7 @@ import telebot
 from openai import OpenAI
 
 BOT_TOKEN = "8958336623:AAG88z3da1mqsd3_T4tSVbzNflLTSVXI3xs"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
